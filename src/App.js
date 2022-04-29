@@ -1,6 +1,7 @@
-import logo from "./logo.svg";
 import "./App.css";
 import { useEffect } from "react";
+import WindowCard from "./components/WindowCard";
+import { Heading } from "@chakra-ui/react";
 
 function App() {
   const onResize = () => {
@@ -17,8 +18,11 @@ function App() {
   }, []);
 
   return (
-    <div className="flex justify-center items-center bg-green-300 h-screen-js">
-      <h1 className="text-9xl grid ">Cześć 🖐️</h1>
+    <div
+      className="flex items-center justify-center //bg-green-300 h-screen-js">
+      <WindowCard>
+        <Heading variant="huge">Cześć 🖐️</Heading>
+      </WindowCard>
     </div>
   );
 }
