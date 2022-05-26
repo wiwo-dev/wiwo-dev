@@ -8,6 +8,7 @@ export default function WindowCard({ children, ...rest }) {
         shadow="16px 16px 0px #C4C4C4"
         _hover={{ shadow: "20px 20px 0px #C4C4C4", transform: "translate(-2px, -2px)" }}
         _active={{ shadow: "8px 8px 0px #C4C4C4", transform: "translate(10px, 10px)" }}
+        minWidth={["280px", "300px"]}
         {...rest}>
         <Box
           w="full"
@@ -26,12 +27,15 @@ export default function WindowCard({ children, ...rest }) {
         </Box>
         <Box
           w="100%"
-          minH="50px"
+          minH={"185px"}
           paddingX="36px"
           paddingTop="52px"
           paddingBottom="62px"
           borderWidth="0px 4px 4px 4px"
-          borderColor="black">
+          borderColor="black"
+          display={"flex"}
+          justifyContent={"center"}
+          alignItems={"center"}>
           {children}
         </Box>
       </VStack>

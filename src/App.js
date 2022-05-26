@@ -17,12 +17,33 @@ function App() {
     };
   }, []);
 
-  const [clicked, setClicked] = useState(false);
+  const [clicked, setClicked] = useState(0);
+
+  const addClick = () => {
+    if (clicked === 3) {
+      setClicked(0);
+      return;
+    }
+    setClicked(clicked + 1);
+  };
+
+  //0 cześć
+  //1 tu będzie strona...
+  //2 już niedługo
+  //3 obiecuję!
 
   return (
     <div className="flex items-center justify-center select-none //bg-green-300 h-screen-js">
-      <WindowCard onClick={() => setClicked(!clicked)}>
-        {!clicked ? <Heading variant="huge">Cześć 🖐️</Heading> : <Heading>tu będzie strona</Heading>}
+      <WindowCard onClick={addClick}>
+        {clicked === 0 ? (
+          <Heading variant="huge">Cześć 🖐️</Heading>
+        ) : clicked === 1 ? (
+          <Heading>tu będzie strona</Heading>
+        ) : clicked === 2 ? (
+          <Heading>już niedługo</Heading>
+        ) : (
+          <Heading>obiecuję 🙈</Heading>
+        )}
       </WindowCard>
     </div>
   );
