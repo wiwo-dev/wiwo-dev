@@ -1,13 +1,14 @@
 import { Badge, Box, Center, Heading, HStack, Text, VStack, Link } from "@chakra-ui/react";
 
-export default function WindowCard({ children }) {
+export default function WindowCard({ children, ...rest }) {
   return (
     <>
       <VStack
         spacing="0"
         shadow="16px 16px 0px #C4C4C4"
         _hover={{ shadow: "20px 20px 0px #C4C4C4", transform: "translate(-2px, -2px)" }}
-        _active={{ shadow: "8px 8px 0px #C4C4C4", transform: "translate(10px, 10px)" }}>
+        _active={{ shadow: "8px 8px 0px #C4C4C4", transform: "translate(10px, 10px)" }}
+        {...rest}>
         <Box
           w="full"
           h="33"
