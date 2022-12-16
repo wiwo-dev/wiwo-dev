@@ -6,10 +6,6 @@ My go-to technologies are React and NextJS. I like to use TailwindCSS for stylin
 
 I am a Computer Science Engineer and have a Masters's degree in Management in Virtual Environments. My education and work experience give me a deep understanding of the technical and business sides of digital projects.
 
-**I’m currently looking for new job opportunities as a Web Developer.**
-
-Contact me if you have a project that you need help with. Let’s see what I can do for you.
-
 ## 📜 Portfolio
 
 Take a look at my portfolio website at [https://wiwoproduction.com/](https://wiwoproduction.com/)
@@ -34,6 +30,12 @@ Fully responsive game written in React
 
 - https://sortingvisualizer.wiwoproduction.com/
 - Code: https://github.com/wiwo-one/sorting-algorithms
+
+## 👨‍💻 Cotact me
+
+**I’m currently looking for new job opportunities as a Web Developer.**
+
+Contact me if you have a project that you need help with. Let’s see what I can do for you.
 
 ## 💻 Tech Stack
 
