@@ -8,7 +8,7 @@ I am a Computer Science Engineer and have a Masters's degree in Management in Vi
 
 ## 📜 Portfolio
 
-Take a look at my portfolio website at [https://wiwoproduction.com/](https://wiwoproduction.com/)
+Take a look at my portfolio website at [https://wiwo.dev/](https://wiwo.dev/)
 
 ## 👉 My Projects
 
