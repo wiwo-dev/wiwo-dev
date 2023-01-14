@@ -1,6 +1,6 @@
 # Hello! ✋ I'm Wojciech Więcławski
 
-I’m a Web Developer with 10 years of experience in the corporate world of Digital Marketing, Social Media, and Video Production.
+I’m a Web Developer with many years of experience in the corporate world of Digital Marketing, Social Media, and Video Production.
 
 My go-to technologies are React and NextJS. I like to use TailwindCSS for styling and Prisma with Postgres or Google Firebase/Firestore for databases.
 
