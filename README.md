@@ -19,9 +19,16 @@ I've build a full stack ecommerce platform.
 - Deployed version: https://ecommerce.wiwoproduction.com/
 - Code: https://github.com/wiwo-one/veggies-fruits
 
+### PacMan Game
+
+PacMan game written in React/NextJS and TypeScript.
+
+- Play it here: https://pacman.wiwo.dev/
+- Code: https://github.com/wiwo-dev/pacman
+
 ### Snake Game
 
-Fully responsive game written in React
+Fully responsive game in React
 
 - Play it here: https://snake.wiwoproduction.com/
 - Code: https://github.com/wiwo-one/snake-game
