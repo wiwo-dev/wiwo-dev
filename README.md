@@ -1,6 +1,6 @@
 # Hello! ✋ I'm Wojciech Więcławski
 
-I’m a Web Developer with many years of experience in the corporate world of Digital Marketing, Social Media, and Video Production.
+I’m a Web Developer with many years of experience in the corporate world of Digital Marketing, Digital Media, Social Media, and Video Production.
 
 My go-to technologies are JavaScript, TypeScript, React and NextJS. I like to use TailwindCSS for styling and Prisma with Postgres or Google Firebase/Firestore for databases.
 
@@ -10,14 +10,7 @@ I am a Computer Science Engineer and have a Masters's degree in Management in Vi
 
 Take a look at my portfolio website at [https://wiwo.dev/](https://wiwo.dev/)
 
-## 👉 My Projects
-
-### eCommerce Platform
-
-I've build a full stack ecommerce platform.
-
-- Deployed version: https://ecommerce.wiwoproduction.com/
-- Code: https://github.com/wiwo-one/veggies-fruits
+## 👉 My Portfolio Projects
 
 ### PacMan Game
 
@@ -25,6 +18,13 @@ PacMan game written in React/NextJS and TypeScript.
 
 - Play it here: https://pacman.wiwo.dev/
 - Code: https://github.com/wiwo-dev/pacman
+
+### eCommerce Platform
+
+I've build a full stack ecommerce platform.
+
+- Deployed version: https://ecommerce.wiwoproduction.com/
+- Code: https://github.com/wiwo-one/veggies-fruits
 
 ### Snake Game
 
@@ -40,9 +40,13 @@ Fully responsive game in React
 
 ## 👨‍💻 Cotact me
 
-**I’m currently looking for new job opportunities as a Web Developer.**
+**I’m currently open for new job opportunities as a Web and Mobile Developer.**
 
 Contact me if you have a project that you need help with. Let’s see what I can do for you.
+
+## 📄 Resume
+
+Please find my resume at https://wiwo.dev/resume
 
 ## 💻 Tech Stack
 
