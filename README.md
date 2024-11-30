@@ -2,7 +2,7 @@
 
 I’m a Web Developer with many years of experience in the corporate world of Digital Marketing, Digital Media, Social Media, and Video Production.
 
-My go-to technologies are JavaScript, TypeScript, React and NextJS. I like to use TailwindCSS for styling and Prisma with Postgres or Google Firebase/Firestore for databases.
+I mainly work with TypeScript, React and NextJS. I'm a fan of TailwindCSS for styling and Prisma with Postgres or Google Firebase/Firestore for databases.
 
 I am a Computer Science Engineer and have a Masters's degree in Management in Virtual Environments. My education and work experience give me a deep understanding of the technical and business sides of digital projects.
 
