@@ -23,19 +23,19 @@ PacMan game written in React/NextJS and TypeScript.
 
 I've build a full stack ecommerce platform.
 
-- Deployed version: https://ecommerce.wiwoproduction.com/
+- Deployed version: https://veggies-fruits.wiwo.dev/
 - Code: https://github.com/wiwo-one/veggies-fruits
 
 ### Snake Game
 
 Fully responsive game in React
 
-- Play it here: https://snake.wiwoproduction.com/
+- Play it here: https://snake.wiwo.dev/
 - Code: https://github.com/wiwo-one/snake-game
 
 ### Sorting Algorithm Visualizer
 
-- https://sortingvisualizer.wiwoproduction.com/
+- https://sortingvisualizer.wiwo.dev/
 - Code: https://github.com/wiwo-one/sorting-algorithms
 
 ## 👨‍💻 Cotact me
