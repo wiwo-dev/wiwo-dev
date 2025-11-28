@@ -2,7 +2,7 @@
 
 I’m a Web Developer with many years of experience in the corporate world of Digital Marketing, Digital Media, Social Media, and Video Production.
 
-I mainly work with TypeScript, React and NextJS. I'm a fan of TailwindCSS for styling and Prisma with Postgres or Google Firebase/Firestore for databases.
+I mainly work with TypeScript, React and NextJS. I'm a fan of TailwindCSS for styling and Drizzle with Postgres or Google Firebase/Firestore for databases.
 
 I am a Computer Science Engineer and have a Masters's degree in Management in Virtual Environments. My education and work experience give me a deep understanding of the technical and business sides of digital projects.
 
@@ -19,13 +19,6 @@ PacMan game written in React/NextJS and TypeScript.
 - Play it here: https://pacman.wiwo.dev/
 - Code: https://github.com/wiwo-dev/pacman
 
-### eCommerce Platform
-
-I've build a full stack ecommerce platform.
-
-- Deployed version: https://veggies-fruits.wiwo.dev/
-- Code: https://github.com/wiwo-one/veggies-fruits
-
 ### Snake Game
 
 Fully responsive game in React
@@ -39,8 +32,6 @@ Fully responsive game in React
 - Code: https://github.com/wiwo-one/sorting-algorithms
 
 ## 👨‍💻 Cotact me
-
-**I’m currently open for new job opportunities as a Web and Mobile Developer.**
 
 Contact me if you have a project that you need help with. Let’s see what I can do for you.
 
